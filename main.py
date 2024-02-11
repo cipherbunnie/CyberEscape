@@ -1,5 +1,4 @@
-# Author: Vam 24060828
-# Date: 12/01/2024
+
 
 '''
 Sci-fic Python Text Based Game
